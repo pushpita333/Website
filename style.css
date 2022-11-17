@@ -1,0 +1,33 @@
+<link href="style.css" rel="stylesheet" type="text/css" />
+html, body {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+h1 {
+  color: darkred;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+}
+h2 {
+  color: darkred;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+  }
+
+  h3 {
+    color: darkred;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    }
+img {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
